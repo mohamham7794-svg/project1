@@ -18,6 +18,10 @@ Finished: 2025-11-25. Grade: 100/100.
 
 ``make bonus`` to compile with bonus functions.
 
+``make clean`` to delete the files.
+
+``make fclean`` to delete the files & any libft.a file.
+
 ## Included Functions
 
 ### Mandatory Functions
@@ -68,4 +72,4 @@ Functions to write to a file descriptor
 - ft_putnbr_fd
 
 ---
-Made by mcombeau: mcombeau@student.42.fr | LinkedIn: [mcombeau](https://www.linkedin.com/in/mia-combeau-86653420b/) | Website: [codequoi.com](https://www.codequoi.com)
+Made by mohhammo: mohhammo@student.42.fr 
